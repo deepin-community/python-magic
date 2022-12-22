@@ -1,0 +1,7 @@
+# cherry-picked from upstream. Keep in chronological order
+1634888852.0.4.24-3-g0ae7e7c.support-file-5-41.patch
+
+# patches that should go upstream
+
+# modifications for Debian
+debian/2021-01-16.locale-in-tests.patch
